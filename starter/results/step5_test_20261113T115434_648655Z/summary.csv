@@ -1,0 +1,4 @@
+strategy,split,total,hit_at_1_count,hit_at_1,hit_at_3_count,hit_at_3
+A,test,5,4,0.8,4,0.8
+B,test,5,5,1.0,5,1.0
+C,test,5,5,1.0,5,1.0

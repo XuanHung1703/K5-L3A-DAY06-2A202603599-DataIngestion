@@ -45,3 +45,12 @@ Dùng cùng dữ liệu, model và câu hỏi cho cả ba cấu hình. Tách **1
 | Cách nộp bài | [SUBMISSION.md](SUBMISSION.md) |
 
 [data/format-example.json](data/format-example.json) chỉ minh họa định dạng, không phải corpus đủ điều kiện. Phần xử lý và benchmark do bạn tự hiện thực; không bắt buộc xây chatbot.
+
+
+## Bài làm của Nguyễn Xuân Hùng (`2A202603599` · `L3A`)
+
+- Báo cáo cá nhân hoàn chỉnh: [report/individual/2A202603599_NguyenXuanHung.md](report/individual/2A202603599_NguyenXuanHung.md)
+- Hướng dẫn cài đặt, tái lập và chạy kiểm tra: [HUONG_DAN_NOP.md](HUONG_DAN_NOP.md)
+- Manifest dữ liệu (59 trang nội dung): [data/manifest.json](data/manifest.json)
+- Bộ 20 câu hỏi Benchmark (15 dev / 5 test): [benchmark/questions.json](benchmark/questions.json)
+- Nhật ký thí nghiệm A/B/C: [artifacts/experiment_log.csv](artifacts/experiment_log.csv)

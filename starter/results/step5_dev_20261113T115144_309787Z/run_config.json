@@ -1,0 +1,44 @@
+{
+  "split": "dev",
+  "status": "completed",
+  "started_at_utc": "2026-11-13T11:51:44.309787+00:00",
+  "settings": {
+    "model": "google/embeddinggemma-2",
+    "dimensions": 768,
+    "top_k": 3,
+    "document_prompt": "Document",
+    "query_prompt": "SearchQuery",
+    "ranking": "exact_cosine",
+    "filter_policy": "C uses only the supplied question filter",
+    "evidence_normalization": "Unicode NFC and collapsed whitespace, case-sensitive",
+    "benchmark_sha256": "b30211cc54305edc51bf4f954bea27b0666d1ae66fc1449d0cf3fad00f0ceffa",
+    "code_sha256": {
+      "evaluation.py": "898bc4c1fc18c235c611197a92dfcb7ac66eb1f26ea35470e0f02e7f215114e4",
+      "run.py": "96ac455319bb906af22662242b4a5ffc2cfb24052a3c23aae90a3dcf5c8030a2",
+      "embeddings.py": "0346b419c3b7792734895e79751df1c6f4fba208807665d6e48fa9e3d46f0764",
+      "store.py": "5795d70508857639b91f29d1a29aef9dc271ae89d38e5f3fc0e1b4ab9d0e6bde"
+    },
+    "versions": {
+      "sentence-transformers": "6.3.0",
+      "transformers": "5.22.2",
+      "psycopg": "3.3.8"
+    },
+    "database_snapshot": {
+      "A": {
+        "count": 319,
+        "sha256": "25f4b745e7dc2aa857f45497e1050b4bc091dec005985779204c847e9e71f97d"
+      },
+      "B": {
+        "count": 171,
+        "sha256": "5178280c93a46c4e128fd2d7a767f2613ce03dee50ca9b0708f5c723057e554f"
+      },
+      "C": {
+        "count": 171,
+        "sha256": "5178280c93a46c4e128fd2d7a767f2613ce03dee50ca9b0708f5c723057e554f"
+      }
+    }
+  },
+  "question_count": 15,
+  "reference_dev_config": null,
+  "total_seconds": 14.149130800000421
+}

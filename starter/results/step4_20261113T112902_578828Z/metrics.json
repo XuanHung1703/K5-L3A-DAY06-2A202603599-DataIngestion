@@ -1,0 +1,57 @@
+{
+  "started_at_utc": "2026-11-13T11:29:02.578828+00:00",
+  "model": "google/embeddinggemma-2",
+  "dimensions": 768,
+  "page_count": 59,
+  "batch_size": 16,
+  "api_cost": 0,
+  "cost_note": "Local inference; excludes hardware and electricity.",
+  "versions": {
+    "sentence-transformers": "6.3.0",
+    "transformers": "5.22.2",
+    "psycopg": "3.3.8",
+    "pypdfium2": "5.15.2"
+  },
+  "ingest_chunk_seconds": 0.25782770000114397,
+  "chunks": {
+    "A": {
+      "chunk_count": 319,
+      "total_chars": 145780,
+      "approx_tokens": 23970,
+      "min_len": 53,
+      "avg_len": 457.0,
+      "max_len": 500
+    },
+    "B": {
+      "chunk_count": 171,
+      "total_chars": 132748,
+      "approx_tokens": 21682,
+      "min_len": 84,
+      "avg_len": 776.3,
+      "max_len": 1000
+    },
+    "C": {
+      "chunk_count": 171,
+      "total_chars": 132748,
+      "approx_tokens": 21682,
+      "min_len": 84,
+      "avg_len": 776.3,
+      "max_len": 1000
+    }
+  },
+  "ranking": "Exact cosine ranking for all strategies; HNSW indexes available.",
+  "c_reuses_b_embeddings": true,
+  "model_load_seconds": 5.968245200001547,
+  "embed_A_seconds": 237.65261009999995,
+  "store_A_seconds": 0.6953083999997034,
+  "stored_counts": {
+    "A": 319,
+    "B": 171,
+    "C": 171
+  },
+  "embed_B_seconds": 179.64707679999992,
+  "store_B_seconds": 0.34117759999935515,
+  "embed_C_seconds": 7.999988156370819e-07,
+  "store_C_seconds": 0.3190815999987535,
+  "total_seconds": 424.9900224000012
+}

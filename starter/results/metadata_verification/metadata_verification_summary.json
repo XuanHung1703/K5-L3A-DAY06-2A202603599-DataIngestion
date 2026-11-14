@@ -1,0 +1,34 @@
+{
+  "trace_file": "starter\\results\\step5_test_20261113T115434_648655Z\\traces_test.json",
+  "method": "PDF text + LibreTexts footer cross-check",
+  "by_strategy": {
+    "A": {
+      "records": 15,
+      "all_ok": 15,
+      "source_ok": 15,
+      "page_ok": 15,
+      "section_ok": 15,
+      "filter_questions_records": 0,
+      "filter_ok": 0
+    },
+    "B": {
+      "records": 15,
+      "all_ok": 15,
+      "source_ok": 15,
+      "page_ok": 15,
+      "section_ok": 15,
+      "filter_questions_records": 0,
+      "filter_ok": 0
+    },
+    "C": {
+      "records": 15,
+      "all_ok": 15,
+      "source_ok": 15,
+      "page_ok": 15,
+      "section_ok": 15,
+      "filter_questions_records": 3,
+      "filter_ok": 3
+    }
+  },
+  "mismatches": []
+}

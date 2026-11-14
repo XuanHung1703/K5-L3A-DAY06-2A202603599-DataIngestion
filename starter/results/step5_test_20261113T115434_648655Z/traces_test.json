@@ -1,0 +1,1150 @@
+[
+  {
+    "question_id": "q16",
+    "split": "test",
+    "question": "Who coined the term 'Great Men' in an 1840 lecture on heroes, and which Russian novelist argued in War and Peace that history is far more than the actions of one person?",
+    "expected_answer": "Thomas Carlyle coined the term 'Great Men', and Leo Tolstoy argued in War and Peace that there is far more to history than the actions of one person.",
+    "gold_source_id": "openstax_1",
+    "gold_page": 33,
+    "evidence_quote": "In an 1840 lecture on heroes, Thomas Carlyle coined the term “Great Men” to describe the kind of history he considered worthy, the study of elite men in positions of power. In his novel War and Peace, the Russian novelist Leo Tolstoy argued that there is far more to history than the actions of one person.",
+    "requested_filter": {},
+    "hits": [
+      {
+        "chunk_id": "openstax_1_p33_fix_0",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 33,
+        "text": "1.4.4 https://human.libretexts.org/@go/page/236420 Great Men, or Everyone? In an 1840 lecture on heroes, Thomas Carlyle coined the term “Great Men” to describe the kind of history he considered worthy, the study of elite men in positions of power. In his novel War and Peace, the Russian novelist Leo Tolstoy argued that there is far more to history than the actions of one person. In the following excerpts, consider the viewpoint of each writer. As I take it, Universal History, the history of what",
+        "metadata": {
+          "section": "1.4: Causation and Interpretation in History",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 33
+        },
+        "score": 0.8499302649946447,
+        "rank": 1,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "openstax_1_p32_fix_7",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 32,
+        "text": "iting a little later, in 1860, the Russian novelist Leo Tolstoy argued that there is more to history than the actions of one person. In his novel War and Peace, he contended that the “general mass of men” who participate in history are the ones who truly cause events.",
+        "metadata": {
+          "section": "1.4: Causation and Interpretation in History",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 32
+        },
+        "score": 0.8046799604145499,
+        "rank": 2,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "openstax_1_p34_fix_0",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 34,
+        "text": "1.4.5 https://human.libretexts.org/@go/page/236420 Which kind of history do you prefer, the “great man” kind or what we might call the “everyone” kind? Why? Whose argument is more convincing, Carlyle’s or Tolstoy’s? Why? While on one hand historians began to look at people of the lower classes as more integral to the human story, history as a discipline became dominated by the same set of colonial powers that were conquering much of the globe in the nineteenth century. Therefore, two divergent s",
+        "metadata": {
+          "section": "1.4: Causation and Interpretation in History",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 34
+        },
+        "score": 0.7391886883815244,
+        "rank": 3,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "strategy": "A",
+    "applied_filter": {},
+    "filter_applied": false,
+    "query_embed_seconds": 0.6308215999997628,
+    "search_seconds": 0.05811899999935122
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "question": "Who coined the term 'Great Men' in an 1840 lecture on heroes, and which Russian novelist argued in War and Peace that history is far more than the actions of one person?",
+    "expected_answer": "Thomas Carlyle coined the term 'Great Men', and Leo Tolstoy argued in War and Peace that there is far more to history than the actions of one person.",
+    "gold_source_id": "openstax_1",
+    "gold_page": 33,
+    "evidence_quote": "In an 1840 lecture on heroes, Thomas Carlyle coined the term “Great Men” to describe the kind of history he considered worthy, the study of elite men in positions of power. In his novel War and Peace, the Russian novelist Leo Tolstoy argued that there is far more to history than the actions of one person.",
+    "requested_filter": {},
+    "hits": [
+      {
+        "chunk_id": "openstax_1_p33_para_0",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 33,
+        "text": "1.4.4 https://human.libretexts.org/@go/page/236420 Great Men, or Everyone? In an 1840 lecture on heroes, Thomas Carlyle coined the term “Great Men” to describe the kind of history he considered worthy, the study of elite men in positions of power. In his novel War and Peace, the Russian novelist Leo Tolstoy argued that there is far more to history than the actions of one person. In the following excerpts, consider the viewpoint of each writer. As I take it, Universal History, the history of what man has accomplished in this world, is at bottom the History of the Great Men who have worked here.",
+        "metadata": {
+          "section": "1.4: Causation and Interpretation in History",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 33
+        },
+        "score": 0.8635414483831241,
+        "rank": 1,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "openstax_1_p32_para_3",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 32,
+        "text": "In the early nineteenth century, a new school of thought called Romanticism emerged. The Romantics believed there was greatness in everyday life. Even a small flower was worthy of a poem, and the plight of a lowly squire was as important as the worries of the great lord of the manor, for both were essential actors in the human experience. The advent of Romantic art, poetry, music, and novels paved the way for a broad reexamination of what was worth knowing and studying. Writing a little later, in 1860, the Russian novelist Leo Tolstoy argued that there is more to history than the actions of one person. In his novel War and Peace, he contended that the “general mass of men” who participate in history are the ones who truly cause events.",
+        "metadata": {
+          "section": "1.4: Causation and Interpretation in History",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 32
+        },
+        "score": 0.7586950393004945,
+        "rank": 2,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "openstax_1_p33_para_2",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 33,
+        "text": "—Thomas Carlyle, “Lecture on Heroes” In historical events (where the actions of men are the subject of observation) the first and most primitive approximation to present itself was the will of the gods and, after that, the will of those who stood in the most prominent position—the heroes of history. But we need only penetrate to the essence of any historic event—which lies in the activity of the general mass of men who take part in it—to be convinced that the will of the historic hero does not control the actions of the mass but is itself continually controlled.",
+        "metadata": {
+          "section": "1.4: Causation and Interpretation in History",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 33
+        },
+        "score": 0.7432540046306686,
+        "rank": 3,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "strategy": "B",
+    "applied_filter": {},
+    "filter_applied": false,
+    "query_embed_seconds": 0.6308215999997628,
+    "search_seconds": 0.030213599999115104
+  },
+  {
+    "question_id": "q16",
+    "split": "test",
+    "question": "Who coined the term 'Great Men' in an 1840 lecture on heroes, and which Russian novelist argued in War and Peace that history is far more than the actions of one person?",
+    "expected_answer": "Thomas Carlyle coined the term 'Great Men', and Leo Tolstoy argued in War and Peace that there is far more to history than the actions of one person.",
+    "gold_source_id": "openstax_1",
+    "gold_page": 33,
+    "evidence_quote": "In an 1840 lecture on heroes, Thomas Carlyle coined the term “Great Men” to describe the kind of history he considered worthy, the study of elite men in positions of power. In his novel War and Peace, the Russian novelist Leo Tolstoy argued that there is far more to history than the actions of one person.",
+    "requested_filter": {},
+    "hits": [
+      {
+        "chunk_id": "openstax_1_p33_para_0",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 33,
+        "text": "1.4.4 https://human.libretexts.org/@go/page/236420 Great Men, or Everyone? In an 1840 lecture on heroes, Thomas Carlyle coined the term “Great Men” to describe the kind of history he considered worthy, the study of elite men in positions of power. In his novel War and Peace, the Russian novelist Leo Tolstoy argued that there is far more to history than the actions of one person. In the following excerpts, consider the viewpoint of each writer. As I take it, Universal History, the history of what man has accomplished in this world, is at bottom the History of the Great Men who have worked here.",
+        "metadata": {
+          "section": "1.4: Causation and Interpretation in History",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 33
+        },
+        "score": 0.8635414483831241,
+        "rank": 1,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "openstax_1_p32_para_3",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 32,
+        "text": "In the early nineteenth century, a new school of thought called Romanticism emerged. The Romantics believed there was greatness in everyday life. Even a small flower was worthy of a poem, and the plight of a lowly squire was as important as the worries of the great lord of the manor, for both were essential actors in the human experience. The advent of Romantic art, poetry, music, and novels paved the way for a broad reexamination of what was worth knowing and studying. Writing a little later, in 1860, the Russian novelist Leo Tolstoy argued that there is more to history than the actions of one person. In his novel War and Peace, he contended that the “general mass of men” who participate in history are the ones who truly cause events.",
+        "metadata": {
+          "section": "1.4: Causation and Interpretation in History",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 32
+        },
+        "score": 0.7586950393004945,
+        "rank": 2,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "openstax_1_p33_para_2",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 33,
+        "text": "—Thomas Carlyle, “Lecture on Heroes” In historical events (where the actions of men are the subject of observation) the first and most primitive approximation to present itself was the will of the gods and, after that, the will of those who stood in the most prominent position—the heroes of history. But we need only penetrate to the essence of any historic event—which lies in the activity of the general mass of men who take part in it—to be convinced that the will of the historic hero does not control the actions of the mass but is itself continually controlled.",
+        "metadata": {
+          "section": "1.4: Causation and Interpretation in History",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 33
+        },
+        "score": 0.7432540046306686,
+        "rank": 3,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "strategy": "C",
+    "applied_filter": {},
+    "filter_applied": false,
+    "query_embed_seconds": 0.6308215999997628,
+    "search_seconds": 0.030428600000959705
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "question": "In the 2015–2016 BBC survey across eighteen countries, how did respondents view themselves as global citizens, and what happens to that sentiment during economic prosperity?",
+    "expected_answer": "More than half of respondents believed themselves to be global citizens, and sentiments favoring a world community increase during times of prosperity.",
+    "gold_source_id": "openstax_1",
+    "gold_page": 16,
+    "evidence_quote": "A BBC poll in 2015–2016 surveyed eighteen countries and found that more than half the respondents believed themselves to be “global citizens.”",
+    "requested_filter": {},
+    "hits": [
+      {
+        "chunk_id": "openstax_1_p16_fix_1",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 16,
+        "text": "ound that more than half the respondents believed themselves to be “global citizens.” It also found that in times of prosperity, sentiments favoring a world community grow, while in times of strife, people tend to revert to more local, national identities. Though no one can see the future, it is difficult to imagine turning the clock back on the processes of globalization. Whether you would like to be a global citizen of the world or not, understanding the world is essential. What does it mean t",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 16
+        },
+        "score": 0.7710420830125405,
+        "rank": 1,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "openstax_1_p16_fix_2",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 16,
+        "text": "anding the world is essential. What does it mean to be a citizen of the world? Watch this TED Talk by Hugh Evans and think about the ways this concept resonates with you. Do you see yourself as connected to the world? Is that a positive attribute? Why or why not? Features of This Textbook This text is a great place to begin your journey into the world’s past. It has several features that will help you understand the history of world civilizations from the fifteenth century and the beginning of t",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 16
+        },
+        "score": 0.6716768315226662,
+        "rank": 2,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "openstax_1_p15_fix_5",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 15,
+        "text": "global workplaces. Knowing about the world will prepare you to be a global citizen, someone who may reside in only one nation but who self\u0002identifies as part of the larger world community. Issues in need of solutions, like climate change, social justice, and human rights, are global in scale. You must know the world to be the change it needs. How do you fit in the global environment? What is your story, and how is it linked to that of others? In many ways, the idea of global citizenship emerged",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 15
+        },
+        "score": 0.6652751642842464,
+        "rank": 3,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ],
+    "hit_at_1": false,
+    "hit_at_3": false,
+    "strategy": "A",
+    "applied_filter": {},
+    "filter_applied": false,
+    "query_embed_seconds": 0.6087769999994634,
+    "search_seconds": 0.032952100000329665
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "question": "In the 2015–2016 BBC survey across eighteen countries, how did respondents view themselves as global citizens, and what happens to that sentiment during economic prosperity?",
+    "expected_answer": "More than half of respondents believed themselves to be global citizens, and sentiments favoring a world community increase during times of prosperity.",
+    "gold_source_id": "openstax_1",
+    "gold_page": 16,
+    "evidence_quote": "A BBC poll in 2015–2016 surveyed eighteen countries and found that more than half the respondents believed themselves to be “global citizens.”",
+    "requested_filter": {},
+    "hits": [
+      {
+        "chunk_id": "openstax_1_p16_para_0",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 16,
+        "text": "1.2.3 https://human.libretexts.org/@go/page/236418 Figure 1.3 Human Rights, Codified. Eleanor Roosevelt is shown holding a poster of the UN Universal Declaration of Human Rights in November 1949. Roosevelt, the former First Lady of the United States, chaired the committee that drafted the declaration. (credit: “Eleanor Roosevelt UDHR” by FDR Presidential Library & Museum/Flickr, CC BY 2.0) A BBC poll in 2015–2016 surveyed eighteen countries and found that more than half the respondents believed themselves to be “global citizens.” It also found that in times of prosperity, sentiments favoring a world community grow, while in times of strife, people tend to revert to more local, national identities. Though no one can see the future, it is difficult to imagine turning the clock back on the processes of globalization. Whether you would like to be a global citizen of the world or not, understanding the world is essential. What does it mean to be a citizen of the world?",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 16
+        },
+        "score": 0.7637510998553394,
+        "rank": 1,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "openstax_1_p15_para_2",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 15,
+        "text": "Learning how to respect, communicate and collaborate with an increasingly diverse work culture is crucial to optimizing a company’s efficiency and productivity.” World History and Global Citizenship The study of world history recognizes the integrated nature of modern life and prepares students for diverse, global workplaces. Knowing about the world will prepare you to be a global citizen, someone who may reside in only one nation but who self\u0002identifies as part of the larger world community. Issues in need of solutions, like climate change, social justice, and human rights, are global in scale. You must know the world to be the change it needs. How do you fit in the global environment? What is your story, and how is it linked to that of others? In many ways, the idea of global citizenship emerged from the human wreckage of the two world wars.",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 15
+        },
+        "score": 0.6645822889302523,
+        "rank": 2,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "openstax_1_p16_para_1",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 16,
+        "text": "Watch this TED Talk by Hugh Evans and think about the ways this concept resonates with you. Do you see yourself as connected to the world? Is that a positive attribute? Why or why not? Features of This Textbook This text is a great place to begin your journey into the world’s past. It has several features that will help you understand the history of world civilizations from the fifteenth century and the beginning of the early modern period until today. For the most part, it adopts a traditional chronological approach, studying events in roughly the order in which they took place. The first few chapters will explore changes that took place in particular regions of the world in the fifteenth through seventeenth centuries. In Exchange in East Asia and the Indian Ocean, you will learn about the civilizations that were connected through Indian and Pacific Ocean trade —India, Malaysia, Indonesia, China, and Japan.",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 16
+        },
+        "score": 0.6509373498770692,
+        "rank": 3,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "strategy": "B",
+    "applied_filter": {},
+    "filter_applied": false,
+    "query_embed_seconds": 0.6087769999994634,
+    "search_seconds": 0.03649240000049758
+  },
+  {
+    "question_id": "q17",
+    "split": "test",
+    "question": "In the 2015–2016 BBC survey across eighteen countries, how did respondents view themselves as global citizens, and what happens to that sentiment during economic prosperity?",
+    "expected_answer": "More than half of respondents believed themselves to be global citizens, and sentiments favoring a world community increase during times of prosperity.",
+    "gold_source_id": "openstax_1",
+    "gold_page": 16,
+    "evidence_quote": "A BBC poll in 2015–2016 surveyed eighteen countries and found that more than half the respondents believed themselves to be “global citizens.”",
+    "requested_filter": {},
+    "hits": [
+      {
+        "chunk_id": "openstax_1_p16_para_0",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 16,
+        "text": "1.2.3 https://human.libretexts.org/@go/page/236418 Figure 1.3 Human Rights, Codified. Eleanor Roosevelt is shown holding a poster of the UN Universal Declaration of Human Rights in November 1949. Roosevelt, the former First Lady of the United States, chaired the committee that drafted the declaration. (credit: “Eleanor Roosevelt UDHR” by FDR Presidential Library & Museum/Flickr, CC BY 2.0) A BBC poll in 2015–2016 surveyed eighteen countries and found that more than half the respondents believed themselves to be “global citizens.” It also found that in times of prosperity, sentiments favoring a world community grow, while in times of strife, people tend to revert to more local, national identities. Though no one can see the future, it is difficult to imagine turning the clock back on the processes of globalization. Whether you would like to be a global citizen of the world or not, understanding the world is essential. What does it mean to be a citizen of the world?",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 16
+        },
+        "score": 0.7637510998553394,
+        "rank": 1,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "openstax_1_p15_para_2",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 15,
+        "text": "Learning how to respect, communicate and collaborate with an increasingly diverse work culture is crucial to optimizing a company’s efficiency and productivity.” World History and Global Citizenship The study of world history recognizes the integrated nature of modern life and prepares students for diverse, global workplaces. Knowing about the world will prepare you to be a global citizen, someone who may reside in only one nation but who self\u0002identifies as part of the larger world community. Issues in need of solutions, like climate change, social justice, and human rights, are global in scale. You must know the world to be the change it needs. How do you fit in the global environment? What is your story, and how is it linked to that of others? In many ways, the idea of global citizenship emerged from the human wreckage of the two world wars.",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 15
+        },
+        "score": 0.6645822889302523,
+        "rank": 2,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "openstax_1_p16_para_1",
+        "document_id": "openstax_1",
+        "source": "openstax_1",
+        "page": 16,
+        "text": "Watch this TED Talk by Hugh Evans and think about the ways this concept resonates with you. Do you see yourself as connected to the world? Is that a positive attribute? Why or why not? Features of This Textbook This text is a great place to begin your journey into the world’s past. It has several features that will help you understand the history of world civilizations from the fifteenth century and the beginning of the early modern period until today. For the most part, it adopts a traditional chronological approach, studying events in roughly the order in which they took place. The first few chapters will explore changes that took place in particular regions of the world in the fifteenth through seventeenth centuries. In Exchange in East Asia and the Indian Ocean, you will learn about the civilizations that were connected through Indian and Pacific Ocean trade —India, Malaysia, Indonesia, China, and Japan.",
+        "metadata": {
+          "section": "1.2: Developing a Global Perspective",
+          "document_id": "openstax_1",
+          "source": "openstax_1",
+          "page": 16
+        },
+        "score": 0.6509373498770692,
+        "rank": 3,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "strategy": "C",
+    "applied_filter": {},
+    "filter_applied": false,
+    "query_embed_seconds": 0.6087769999994634,
+    "search_seconds": 0.03357190000133414
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "question": "In a cellular membrane's phospholipid bilayer, which part of the phospholipid faces the aqueous solution and which part is sequestered inside away from water?",
+    "expected_answer": "The hydrophilic phosphate head groups face the outside aqueous solution, while the hydrophobic fatty acid tails are sequestered in the middle of the bilayer away from water.",
+    "gold_source_id": "openstax_2",
+    "gold_page": 103,
+    "evidence_quote": "The hydrophilic head groups of the phospholipids face the aqueous solution. The hydrophobic tails are sequestered in the middle of the bilayer.",
+    "requested_filter": {},
+    "hits": [
+      {
+        "chunk_id": "openstax_2_p103_fix_0",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 103,
+        "text": "Figure : The phospholipid bilayer is the major component of all cellular membranes. The hydrophilic head groups of the phospholipids face the aqueous solution. The hydrophobic tails are sequestered in the middle of the bilayer. The head is the hydrophilic part, and the tail contains the hydrophobic fatty acids. In a membrane, a bilayer of phospholipids forms the matrix of the structure, the fatty acid tails of phospholipids face inside, away from water, whereas the phosphate group faces the outs",
+        "metadata": {
+          "section": "3.3: Lipids",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 103
+        },
+        "score": 0.8687861413978679,
+        "rank": 1,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "openstax_2_p113_fix_7",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 113,
+        "text": "ein embedded in a lipid bilayer? Answer Polar and charged amino acid residues (the remainder after peptide bond formation) are more likely to be found on the surface of soluble proteins where they can interact with water, and nonpolar (e.g., amino acid side chains) are more likely to be found in the interior where they are sequestered from water. In membrane proteins, nonpolar and hydrophobic amino acid side chains associate with the hydrophobic tails of phospholipids, while polar and charged am",
+        "metadata": {
+          "section": "3.4: Proteins",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 113
+        },
+        "score": 0.8028669352437632,
+        "rank": 2,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "openstax_2_p103_fix_1",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 103,
+        "text": "water, whereas the phosphate group faces the outside, aqueous side (Figure ). Phospholipids are responsible for the dynamic nature of the plasma membrane. If a drop of phospholipids is placed in water, it spontaneously forms a structure known as a micelle, where the hydrophilic phosphate heads face the outside and the fatty acids face the interior of this structure. Steroids Unlike the phospholipids and fats discussed earlier, steroids have a fused ring structure. Although they do not resemble",
+        "metadata": {
+          "section": "3.3: Lipids",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 103
+        },
+        "score": 0.7816068246726079,
+        "rank": 3,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "strategy": "A",
+    "applied_filter": {},
+    "filter_applied": false,
+    "query_embed_seconds": 0.35813840000082564,
+    "search_seconds": 0.029862299999876996
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "question": "In a cellular membrane's phospholipid bilayer, which part of the phospholipid faces the aqueous solution and which part is sequestered inside away from water?",
+    "expected_answer": "The hydrophilic phosphate head groups face the outside aqueous solution, while the hydrophobic fatty acid tails are sequestered in the middle of the bilayer away from water.",
+    "gold_source_id": "openstax_2",
+    "gold_page": 103,
+    "evidence_quote": "The hydrophilic head groups of the phospholipids face the aqueous solution. The hydrophobic tails are sequestered in the middle of the bilayer.",
+    "requested_filter": {},
+    "hits": [
+      {
+        "chunk_id": "openstax_2_p103_para_0",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 103,
+        "text": "Figure : The phospholipid bilayer is the major component of all cellular membranes. The hydrophilic head groups of the phospholipids face the aqueous solution. The hydrophobic tails are sequestered in the middle of the bilayer. The head is the hydrophilic part, and the tail contains the hydrophobic fatty acids. In a membrane, a bilayer of phospholipids forms the matrix of the structure, the fatty acid tails of phospholipids face inside, away from water, whereas the phosphate group faces the outside, aqueous side (Figure ). Phospholipids are responsible for the dynamic nature of the plasma membrane. If a drop of phospholipids is placed in water, it spontaneously forms a structure known as a micelle, where the hydrophilic phosphate heads face the outside and the fatty acids face the interior of this structure. Steroids Unlike the phospholipids and fats discussed earlier, steroids have a fused ring structure.",
+        "metadata": {
+          "section": "3.3: Lipids",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 103
+        },
+        "score": 0.8402269628869676,
+        "rank": 1,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "openstax_2_p102_para_1",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 102,
+        "text": "The phosphate may be modified by the addition of charged or polar chemical groups. Two chemical groups that may modify the phosphate, choline and serine, are shown here. Both choline and serine attach to the phosphate group at the position labeled R via the hydroxyl group indicated in green. A phospholipid is an amphipathic molecule, meaning it has a hydrophobic and a hydrophilic part. The fatty acid chains are hydrophobic and cannot interact with water, whereas the phosphate-containing group is hydrophilic and interacts with water (Figure ). 88 (3.3.5)",
+        "metadata": {
+          "section": "3.3: Lipids",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 102
+        },
+        "score": 0.7833835254845968,
+        "rank": 2,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "openstax_2_p113_para_3",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 113,
+        "text": "Protein shape and function are intricately linked; any change in shape caused by changes in temperature or pH may lead to protein denaturation and a loss in function. Art Connections Figure : Which categories of amino acid would you expect to find on the surface of a soluble protein, and which would you expect to find in the interior? What distribution of amino acids would you expect to find in a protein embedded in a lipid bilayer? Answer Polar and charged amino acid residues (the remainder after peptide bond formation) are more likely to be found on the surface of soluble proteins where they can interact with water, and nonpolar (e.g., amino acid side chains) are more likely to be found in the interior where they are sequestered from water. In membrane proteins, nonpolar and hydrophobic amino acid side chains associate with the hydrophobic tails of phospholipids, while polar and charged amino acid side chains interact with the polar head groups or with the aqueous solution.",
+        "metadata": {
+          "section": "3.4: Proteins",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 113
+        },
+        "score": 0.7593158309781369,
+        "rank": 3,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "strategy": "B",
+    "applied_filter": {},
+    "filter_applied": false,
+    "query_embed_seconds": 0.35813840000082564,
+    "search_seconds": 0.02759409999998752
+  },
+  {
+    "question_id": "q18",
+    "split": "test",
+    "question": "In a cellular membrane's phospholipid bilayer, which part of the phospholipid faces the aqueous solution and which part is sequestered inside away from water?",
+    "expected_answer": "The hydrophilic phosphate head groups face the outside aqueous solution, while the hydrophobic fatty acid tails are sequestered in the middle of the bilayer away from water.",
+    "gold_source_id": "openstax_2",
+    "gold_page": 103,
+    "evidence_quote": "The hydrophilic head groups of the phospholipids face the aqueous solution. The hydrophobic tails are sequestered in the middle of the bilayer.",
+    "requested_filter": {},
+    "hits": [
+      {
+        "chunk_id": "openstax_2_p103_para_0",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 103,
+        "text": "Figure : The phospholipid bilayer is the major component of all cellular membranes. The hydrophilic head groups of the phospholipids face the aqueous solution. The hydrophobic tails are sequestered in the middle of the bilayer. The head is the hydrophilic part, and the tail contains the hydrophobic fatty acids. In a membrane, a bilayer of phospholipids forms the matrix of the structure, the fatty acid tails of phospholipids face inside, away from water, whereas the phosphate group faces the outside, aqueous side (Figure ). Phospholipids are responsible for the dynamic nature of the plasma membrane. If a drop of phospholipids is placed in water, it spontaneously forms a structure known as a micelle, where the hydrophilic phosphate heads face the outside and the fatty acids face the interior of this structure. Steroids Unlike the phospholipids and fats discussed earlier, steroids have a fused ring structure.",
+        "metadata": {
+          "section": "3.3: Lipids",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 103
+        },
+        "score": 0.8402269628869676,
+        "rank": 1,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "openstax_2_p102_para_1",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 102,
+        "text": "The phosphate may be modified by the addition of charged or polar chemical groups. Two chemical groups that may modify the phosphate, choline and serine, are shown here. Both choline and serine attach to the phosphate group at the position labeled R via the hydroxyl group indicated in green. A phospholipid is an amphipathic molecule, meaning it has a hydrophobic and a hydrophilic part. The fatty acid chains are hydrophobic and cannot interact with water, whereas the phosphate-containing group is hydrophilic and interacts with water (Figure ). 88 (3.3.5)",
+        "metadata": {
+          "section": "3.3: Lipids",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 102
+        },
+        "score": 0.7833835254845968,
+        "rank": 2,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "openstax_2_p113_para_3",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 113,
+        "text": "Protein shape and function are intricately linked; any change in shape caused by changes in temperature or pH may lead to protein denaturation and a loss in function. Art Connections Figure : Which categories of amino acid would you expect to find on the surface of a soluble protein, and which would you expect to find in the interior? What distribution of amino acids would you expect to find in a protein embedded in a lipid bilayer? Answer Polar and charged amino acid residues (the remainder after peptide bond formation) are more likely to be found on the surface of soluble proteins where they can interact with water, and nonpolar (e.g., amino acid side chains) are more likely to be found in the interior where they are sequestered from water. In membrane proteins, nonpolar and hydrophobic amino acid side chains associate with the hydrophobic tails of phospholipids, while polar and charged amino acid side chains interact with the polar head groups or with the aqueous solution.",
+        "metadata": {
+          "section": "3.4: Proteins",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 113
+        },
+        "score": 0.7593158309781369,
+        "rank": 3,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "strategy": "C",
+    "applied_filter": {},
+    "filter_applied": false,
+    "query_embed_seconds": 0.35813840000082564,
+    "search_seconds": 0.0413881999993464
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "question": "What does the Central Dogma of Life state about the flow of genetic information, and under what circumstance do exceptions to this rule occur?",
+    "expected_answer": "Information flows from DNA to RNA (via transcription) to protein (via translation); exceptions to this rule occur in connection with viral infections.",
+    "gold_source_id": "openstax_2",
+    "gold_page": 119,
+    "evidence_quote": "DNA dictates the structure of mRNA in a process known as transcription, and RNA dictates the structure of protein in a process known as translation. This is known as the Central Dogma of Life, which holds true for all organisms; however, exceptions to the rule occur in connection with viral infections.",
+    "requested_filter": {},
+    "hits": [
+      {
+        "chunk_id": "openstax_2_p119_fix_0",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 119,
+        "text": "As you have learned, information flow in an organism takes place from DNA to RNA to protein. DNA dictates the structure of mRNA in a process known as transcription, and RNA dictates the structure of protein in a process known as translation. This is known as the Central Dogma of Life, which holds true for all organisms; however, exceptions to the rule occur in connection with viral infections. To learn more about DNA, explore the Howard Hughes Medical Institute BioInteractive animations on the t",
+        "metadata": {
+          "section": "3.5: Nucleic Acids",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 119
+        },
+        "score": 0.805735657739638,
+        "rank": 1,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "openstax_2_p117_fix_1",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 117,
+        "text": "pair with C, as shown in Figure . This is known as the base complementary rule. In other words, the DNA strands are complementary to each other. If the sequence of one strand is AATTGGCC, the complementary strand would have the sequence TTAACCGG. During DNA replication, each strand is copied, resulting in a daughter DNA double helix containing one parental DNA strand and a newly synthesized strand. Figure : In a double stranded DNA molecule, the two strands run antiparallel to one another so tha",
+        "metadata": {
+          "section": "3.5: Nucleic Acids",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 117
+        },
+        "score": 0.6662509875799829,
+        "rank": 2,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "openstax_2_p117_fix_2",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 117,
+        "text": "two strands run antiparallel to one another so that one strand runs 5′ to 3′ and the other 3′ to 5′. The phosphate backbone is located on the outside, and the bases are in the middle. Adenine forms hydrogen bonds (or base pairs) with thymine, and guanine base pairs with cytosine. A mutation occurs, and cytosine is replaced with adenine. What impact do you think this will have on the DNA structure? Art Connection 103 (3.5.3)",
+        "metadata": {
+          "section": "3.5: Nucleic Acids",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 117
+        },
+        "score": 0.6581515282917899,
+        "rank": 3,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "strategy": "A",
+    "applied_filter": {},
+    "filter_applied": false,
+    "query_embed_seconds": 0.34365359999901557,
+    "search_seconds": 0.0518978000000061
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "question": "What does the Central Dogma of Life state about the flow of genetic information, and under what circumstance do exceptions to this rule occur?",
+    "expected_answer": "Information flows from DNA to RNA (via transcription) to protein (via translation); exceptions to this rule occur in connection with viral infections.",
+    "gold_source_id": "openstax_2",
+    "gold_page": 119,
+    "evidence_quote": "DNA dictates the structure of mRNA in a process known as transcription, and RNA dictates the structure of protein in a process known as translation. This is known as the Central Dogma of Life, which holds true for all organisms; however, exceptions to the rule occur in connection with viral infections.",
+    "requested_filter": {},
+    "hits": [
+      {
+        "chunk_id": "openstax_2_p119_para_0",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 119,
+        "text": "As you have learned, information flow in an organism takes place from DNA to RNA to protein. DNA dictates the structure of mRNA in a process known as transcription, and RNA dictates the structure of protein in a process known as translation. This is known as the Central Dogma of Life, which holds true for all organisms; however, exceptions to the rule occur in connection with viral infections. To learn more about DNA, explore the Howard Hughes Medical Institute BioInteractive animations on the topic of DNA. Summary Nucleic acids are molecules made up of nucleotides that direct cellular activities such as cell division and protein synthesis. Each nucleotide is made up of a pentose sugar, a nitrogenous base, and a phosphate group. There are two types of nucleic acids: DNA and RNA. DNA carries the genetic blueprint of the cell and is passed on from parents to offspring (in the form of chromosomes).",
+        "metadata": {
+          "section": "3.5: Nucleic Acids",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 119
+        },
+        "score": 0.7592734928975243,
+        "rank": 1,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "openstax_2_p117_para_0",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 117,
+        "text": "Figure : Native DNA is an antiparallel double helix. The phosphate backbone (indicated by the curvy lines) is on the outside, and the bases are on the inside. Each base from one strand interacts via hydrogen bonding with a base from the opposing strand. (credit: Jerome Walker/ Dennis Myts) Only certain types of base pairing are allowed. For example, a certain purine can only pair with a certain pyrimidine. This means A can pair with T, and G can pair with C, as shown in Figure . This is known as the base complementary rule. In other words, the DNA strands are complementary to each other. If the sequence of one strand is AATTGGCC, the complementary strand would have the sequence TTAACCGG. During DNA replication, each strand is copied, resulting in a daughter DNA double helix containing one parental DNA strand and a newly synthesized strand. Figure : In a double stranded DNA molecule, the two strands run antiparallel to one another so that one strand runs 5′ to 3′ and the other 3′ to 5′.",
+        "metadata": {
+          "section": "3.5: Nucleic Acids",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 117
+        },
+        "score": 0.6707401629884009,
+        "rank": 2,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "openstax_2_p117_para_1",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 117,
+        "text": "The phosphate backbone is located on the outside, and the bases are in the middle. Adenine forms hydrogen bonds (or base pairs) with thymine, and guanine base pairs with cytosine. A mutation occurs, and cytosine is replaced with adenine. What impact do you think this will have on the DNA structure? Art Connection 103 (3.5.3)",
+        "metadata": {
+          "section": "3.5: Nucleic Acids",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 117
+        },
+        "score": 0.6523921243585217,
+        "rank": 3,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "strategy": "B",
+    "applied_filter": {},
+    "filter_applied": false,
+    "query_embed_seconds": 0.34365359999901557,
+    "search_seconds": 0.027087000000392436
+  },
+  {
+    "question_id": "q19",
+    "split": "test",
+    "question": "What does the Central Dogma of Life state about the flow of genetic information, and under what circumstance do exceptions to this rule occur?",
+    "expected_answer": "Information flows from DNA to RNA (via transcription) to protein (via translation); exceptions to this rule occur in connection with viral infections.",
+    "gold_source_id": "openstax_2",
+    "gold_page": 119,
+    "evidence_quote": "DNA dictates the structure of mRNA in a process known as transcription, and RNA dictates the structure of protein in a process known as translation. This is known as the Central Dogma of Life, which holds true for all organisms; however, exceptions to the rule occur in connection with viral infections.",
+    "requested_filter": {},
+    "hits": [
+      {
+        "chunk_id": "openstax_2_p119_para_0",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 119,
+        "text": "As you have learned, information flow in an organism takes place from DNA to RNA to protein. DNA dictates the structure of mRNA in a process known as transcription, and RNA dictates the structure of protein in a process known as translation. This is known as the Central Dogma of Life, which holds true for all organisms; however, exceptions to the rule occur in connection with viral infections. To learn more about DNA, explore the Howard Hughes Medical Institute BioInteractive animations on the topic of DNA. Summary Nucleic acids are molecules made up of nucleotides that direct cellular activities such as cell division and protein synthesis. Each nucleotide is made up of a pentose sugar, a nitrogenous base, and a phosphate group. There are two types of nucleic acids: DNA and RNA. DNA carries the genetic blueprint of the cell and is passed on from parents to offspring (in the form of chromosomes).",
+        "metadata": {
+          "section": "3.5: Nucleic Acids",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 119
+        },
+        "score": 0.7592734928975243,
+        "rank": 1,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "openstax_2_p117_para_0",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 117,
+        "text": "Figure : Native DNA is an antiparallel double helix. The phosphate backbone (indicated by the curvy lines) is on the outside, and the bases are on the inside. Each base from one strand interacts via hydrogen bonding with a base from the opposing strand. (credit: Jerome Walker/ Dennis Myts) Only certain types of base pairing are allowed. For example, a certain purine can only pair with a certain pyrimidine. This means A can pair with T, and G can pair with C, as shown in Figure . This is known as the base complementary rule. In other words, the DNA strands are complementary to each other. If the sequence of one strand is AATTGGCC, the complementary strand would have the sequence TTAACCGG. During DNA replication, each strand is copied, resulting in a daughter DNA double helix containing one parental DNA strand and a newly synthesized strand. Figure : In a double stranded DNA molecule, the two strands run antiparallel to one another so that one strand runs 5′ to 3′ and the other 3′ to 5′.",
+        "metadata": {
+          "section": "3.5: Nucleic Acids",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 117
+        },
+        "score": 0.6707401629884009,
+        "rank": 2,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "openstax_2_p117_para_1",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 117,
+        "text": "The phosphate backbone is located on the outside, and the bases are in the middle. Adenine forms hydrogen bonds (or base pairs) with thymine, and guanine base pairs with cytosine. A mutation occurs, and cytosine is replaced with adenine. What impact do you think this will have on the DNA structure? Art Connection 103 (3.5.3)",
+        "metadata": {
+          "section": "3.5: Nucleic Acids",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 117
+        },
+        "score": 0.6523921243585217,
+        "rank": 3,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "strategy": "C",
+    "applied_filter": {},
+    "filter_applied": false,
+    "query_embed_seconds": 0.34365359999901557,
+    "search_seconds": 0.02485759999945003
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "question": "According to section 3.E: Biological Macromolecules (Exercises), how are trans fats artificially created and why are some restaurants banning them?",
+    "expected_answer": "Trans fats are created artificially when hydrogen gas is bubbled through oils to solidify them, converting cis double bonds to trans; restaurants ban them because they cause higher levels of LDL ('bad' cholesterol).",
+    "gold_source_id": "openstax_2",
+    "gold_page": 125,
+    "evidence_quote": "Trans fats are created artificially when hydrogen gas is bubbled through oils to solidify them. The double bonds of the cis conformation in the hydrocarbon chain may be converted to double bonds in the trans configuration. Some restaurants are banning trans fats because they cause higher levels of LDL, or “bad” cholesterol.",
+    "requested_filter": {
+      "section": "3.E: Biological Macromolecules (Exercises)"
+    },
+    "hits": [
+      {
+        "chunk_id": "openstax_2_p125_fix_0",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 125,
+        "text": "Trans fats are created artificially when hydrogen gas is bubbled through oils to solidify them. The double bonds of the cis conformation in the hydrocarbon chain may be converted to double bonds in the trans configuration. Some restaurants are banning trans fats because they cause higher levels of LDL, or “bad” cholesterol. C B A change in gene sequence can lead to a different amino acid being added to a polypeptide chain instead of the normal one. This causes a change in protein structure and f",
+        "metadata": {
+          "section": "3.E: Biological Macromolecules (Exercises)",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 125
+        },
+        "score": 0.7958537854152011,
+        "rank": 1,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "openstax_2_p97_fix_1",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 97,
+        "text": "s chapter, these questions will be explored. 3.0: Prelude to Biological Macromolecules 3.1: Synthesis of Biological Macromolecules 3.2: Carbohydrates 3.3: Lipids 3.4: Proteins 3.5: Nucleic Acids 3.E: Biological Macromolecules (Exercises) 83 (3.1)",
+        "metadata": {
+          "section": "3: Biological Macromolecules",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 97
+        },
+        "score": 0.764055138965743,
+        "rank": 2,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "openstax_2_p123_fix_0",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 123,
+        "text": "A. the plasma membrane of animal cells B. the ring structure of steroids C. the waxy covering on leaves D. the double bond in hydrocarbon chains Answer available at the end of this section. Free Response Explain at least three functions that lipids serve in plants and/or animals. Answer available at the end of this section. Why have trans fats been banned from some restaurants? How are they created? Answer available at the end of this section. 3.4: Proteins Review Questions The monomers that mak",
+        "metadata": {
+          "section": "3.E: Biological Macromolecules (Exercises)",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 123
+        },
+        "score": 0.7628418702896747,
+        "rank": 3,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "strategy": "A",
+    "applied_filter": {},
+    "filter_applied": false,
+    "query_embed_seconds": 0.3801138999988325,
+    "search_seconds": 0.049305000000458676
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "question": "According to section 3.E: Biological Macromolecules (Exercises), how are trans fats artificially created and why are some restaurants banning them?",
+    "expected_answer": "Trans fats are created artificially when hydrogen gas is bubbled through oils to solidify them, converting cis double bonds to trans; restaurants ban them because they cause higher levels of LDL ('bad' cholesterol).",
+    "gold_source_id": "openstax_2",
+    "gold_page": 125,
+    "evidence_quote": "Trans fats are created artificially when hydrogen gas is bubbled through oils to solidify them. The double bonds of the cis conformation in the hydrocarbon chain may be converted to double bonds in the trans configuration. Some restaurants are banning trans fats because they cause higher levels of LDL, or “bad” cholesterol.",
+    "requested_filter": {
+      "section": "3.E: Biological Macromolecules (Exercises)"
+    },
+    "hits": [
+      {
+        "chunk_id": "openstax_2_p125_para_0",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 125,
+        "text": "Trans fats are created artificially when hydrogen gas is bubbled through oils to solidify them. The double bonds of the cis conformation in the hydrocarbon chain may be converted to double bonds in the trans configuration. Some restaurants are banning trans fats because they cause higher levels of LDL, or “bad” cholesterol. C B A change in gene sequence can lead to a different amino acid being added to a polypeptide chain instead of the normal one. This causes a change in protein structure and function. For example, in sickle cell anemia, the hemoglobin β chain has a single amino acid substitution—the amino acid glutamic acid in position six is substituted by valine. Because of this change, hemoglobin molecules form aggregates, and the disc-shaped red blood cells assume a crescent shape, which results in serious health problems. The sequence and number of amino acids in a polypeptide chain is its primary structure.",
+        "metadata": {
+          "section": "3.E: Biological Macromolecules (Exercises)",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 125
+        },
+        "score": 0.7642148215713667,
+        "rank": 1,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "openstax_2_p100_para_2",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 100,
+        "text": "During this hydrogenation process, double bonds of the cis- conformation in the hydrocarbon chain may be converted to double bonds in the trans- conformation. Margarine, some types of peanut butter, and shortening are examples of artificially hydrogenated trans fats. Recent studies have shown that an increase in trans fats in the human diet may lead to an increase in levels of low-density lipoproteins (LDL), or “bad” cholesterol, which in turn may lead to plaque deposition in the arteries, resulting in heart disease. Many fast food restaurants have recently banned the use of trans fats, and food labels are required to display the trans fat content. Omega Fatty Acids Essential fatty acids are fatty acids required but not synthesized by the human body. Consequently, they have to be supplemented through ingestion via the diet. Omega-3 fatty acids (like that shown in Figure ) fall into this category and are one of only two known for humans (the other being omega-6 fatty acid).",
+        "metadata": {
+          "section": "3.3: Lipids",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 100
+        },
+        "score": 0.755826514430892,
+        "rank": 2,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "openstax_2_p123_para_0",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 123,
+        "text": "A. the plasma membrane of animal cells B. the ring structure of steroids C. the waxy covering on leaves D. the double bond in hydrocarbon chains Answer available at the end of this section. Free Response Explain at least three functions that lipids serve in plants and/or animals. Answer available at the end of this section. Why have trans fats been banned from some restaurants? How are they created? Answer available at the end of this section. 3.4: Proteins Review Questions The monomers that make up proteins are called ________. A. nucleotides B. disaccharides C. amino acids D. chaperones Answer available at the end of this section. The α helix and the β-pleated sheet are part of which protein structure? A. primary B. secondary C. tertiary D. quaternary Answer available at the end of this section. Free Response Explain what happens if even one amino acid is substituted for another in a polypeptide chain. Provide a specific example. Answer available at the end of this section.",
+        "metadata": {
+          "section": "3.E: Biological Macromolecules (Exercises)",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 123
+        },
+        "score": 0.7549636208356403,
+        "rank": 3,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "strategy": "B",
+    "applied_filter": {},
+    "filter_applied": false,
+    "query_embed_seconds": 0.3801138999988325,
+    "search_seconds": 0.02134730000034324
+  },
+  {
+    "question_id": "q20",
+    "split": "test",
+    "question": "According to section 3.E: Biological Macromolecules (Exercises), how are trans fats artificially created and why are some restaurants banning them?",
+    "expected_answer": "Trans fats are created artificially when hydrogen gas is bubbled through oils to solidify them, converting cis double bonds to trans; restaurants ban them because they cause higher levels of LDL ('bad' cholesterol).",
+    "gold_source_id": "openstax_2",
+    "gold_page": 125,
+    "evidence_quote": "Trans fats are created artificially when hydrogen gas is bubbled through oils to solidify them. The double bonds of the cis conformation in the hydrocarbon chain may be converted to double bonds in the trans configuration. Some restaurants are banning trans fats because they cause higher levels of LDL, or “bad” cholesterol.",
+    "requested_filter": {
+      "section": "3.E: Biological Macromolecules (Exercises)"
+    },
+    "hits": [
+      {
+        "chunk_id": "openstax_2_p125_para_0",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 125,
+        "text": "Trans fats are created artificially when hydrogen gas is bubbled through oils to solidify them. The double bonds of the cis conformation in the hydrocarbon chain may be converted to double bonds in the trans configuration. Some restaurants are banning trans fats because they cause higher levels of LDL, or “bad” cholesterol. C B A change in gene sequence can lead to a different amino acid being added to a polypeptide chain instead of the normal one. This causes a change in protein structure and function. For example, in sickle cell anemia, the hemoglobin β chain has a single amino acid substitution—the amino acid glutamic acid in position six is substituted by valine. Because of this change, hemoglobin molecules form aggregates, and the disc-shaped red blood cells assume a crescent shape, which results in serious health problems. The sequence and number of amino acids in a polypeptide chain is its primary structure.",
+        "metadata": {
+          "section": "3.E: Biological Macromolecules (Exercises)",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 125
+        },
+        "score": 0.7642148215713667,
+        "rank": 1,
+        "source_match": true,
+        "page_match": true,
+        "evidence_match": true,
+        "is_hit": true
+      },
+      {
+        "chunk_id": "openstax_2_p123_para_0",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 123,
+        "text": "A. the plasma membrane of animal cells B. the ring structure of steroids C. the waxy covering on leaves D. the double bond in hydrocarbon chains Answer available at the end of this section. Free Response Explain at least three functions that lipids serve in plants and/or animals. Answer available at the end of this section. Why have trans fats been banned from some restaurants? How are they created? Answer available at the end of this section. 3.4: Proteins Review Questions The monomers that make up proteins are called ________. A. nucleotides B. disaccharides C. amino acids D. chaperones Answer available at the end of this section. The α helix and the β-pleated sheet are part of which protein structure? A. primary B. secondary C. tertiary D. quaternary Answer available at the end of this section. Free Response Explain what happens if even one amino acid is substituted for another in a polypeptide chain. Provide a specific example. Answer available at the end of this section.",
+        "metadata": {
+          "section": "3.E: Biological Macromolecules (Exercises)",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 123
+        },
+        "score": 0.7549636208356403,
+        "rank": 2,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      },
+      {
+        "chunk_id": "openstax_2_p121_para_0",
+        "document_id": "openstax_2",
+        "source": "openstax_2",
+        "page": 121,
+        "text": "3.E: Biological Macromolecules (Exercises) 3.1: Synthesis of Biological Macromolecules Review Questions Dehydration synthesis leads to formation of A. monomers B. polymers C. water and polymers D. none of the above Answer available at the end of this section. During the breakdown of polymers, which of the following reactions takes place? A. hydrolysis B. dehydration C. condensation D. covalent bond Answer available at the end of this section. Free Response Why are biological macromolecules considered organic? Answer available at the end of this section. What role do electrons play in dehydration synthesis and hydrolysis? Answer available at the end of this section. 3.2: Carbohydrates Review Questions An example of a monosaccharide is ________. A. fructose B. glucose C. galactose D. all of the above Answer available at the end of this section. 107 (3.E.1)",
+        "metadata": {
+          "section": "3.E: Biological Macromolecules (Exercises)",
+          "document_id": "openstax_2",
+          "source": "openstax_2",
+          "page": 121
+        },
+        "score": 0.7292481311344656,
+        "rank": 3,
+        "source_match": true,
+        "page_match": false,
+        "evidence_match": false,
+        "is_hit": false
+      }
+    ],
+    "hit_at_1": true,
+    "hit_at_3": true,
+    "strategy": "C",
+    "applied_filter": {
+      "section": "3.E: Biological Macromolecules (Exercises)"
+    },
+    "filter_applied": true,
+    "query_embed_seconds": 0.3801138999988325,
+    "search_seconds": 0.021621799998683855
+  }
+]

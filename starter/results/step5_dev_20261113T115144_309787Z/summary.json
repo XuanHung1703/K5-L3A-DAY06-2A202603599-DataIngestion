@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "strategy": "A",
+      "split": "dev",
+      "total": 15,
+      "hit_at_1_count": 10,
+      "hit_at_1": 0.6666666666666666,
+      "hit_at_3_count": 13,
+      "hit_at_3": 0.8666666666666667
+    },
+    {
+      "strategy": "B",
+      "split": "dev",
+      "total": 15,
+      "hit_at_1_count": 14,
+      "hit_at_1": 0.9333333333333333,
+      "hit_at_3_count": 15,
+      "hit_at_3": 1.0
+    },
+    {
+      "strategy": "C",
+      "split": "dev",
+      "total": 15,
+      "hit_at_1_count": 14,
+      "hit_at_1": 0.9333333333333333,
+      "hit_at_3_count": 15,
+      "hit_at_3": 1.0
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "reviewer": "Nguyễn Xuân Hùng (AI hỗ trợ, đã đối chiếu PDF gốc)",
+  "audit_date": "2026-11-14T09:40:00+07:00",
+  "summary": {
+    "A": {
+      "coherence": {
+        "count": 10,
+        "mean_out_of_2": 1.1,
+        "distribution": {
+          "0": 0,
+          "1": 9,
+          "2": 1
+        }
+      },
+      "metadata": {
+        "confirmed_correct": 15,
+        "total": 15,
+        "ratio": 1.0,
+        "unverified_records": 0
+      },
+      "filter": {
+        "confirmed_questions": 0,
+        "total_filtered_questions": 0,
+        "ratio": null
+      },
+      "grounding": {
+        "count": 5,
+        "mean_out_of_2": 1.8,
+        "distribution": {
+          "0": 0,
+          "1": 1,
+          "2": 4
+        }
+      }
+    },
+    "B": {
+      "coherence": {
+        "count": 10,
+        "mean_out_of_2": 1.8,
+        "distribution": {
+          "0": 0,
+          "1": 2,
+          "2": 8
+        }
+      },
+      "metadata": {
+        "confirmed_correct": 15,
+        "total": 15,
+        "ratio": 1.0,
+        "unverified_records": 0
+      },
+      "filter": {
+        "confirmed_questions": 0,
+        "total_filtered_questions": 0,
+        "ratio": null
+      },
+      "grounding": {
+        "count": 5,
+        "mean_out_of_2": 2.0,
+        "distribution": {
+          "0": 0,
+          "1": 0,
+          "2": 5
+        }
+      }
+    },
+    "C": {
+      "coherence": {
+        "count": 10,
+        "mean_out_of_2": 1.8,
+        "distribution": {
+          "0": 0,
+          "1": 2,
+          "2": 8
+        }
+      },
+      "metadata": {
+        "confirmed_correct": 15,
+        "total": 15,
+        "ratio": 1.0,
+        "unverified_records": 0
+      },
+      "filter": {
+        "confirmed_questions": 1,
+        "total_filtered_questions": 1,
+        "ratio": 1.0
+      },
+      "grounding": {
+        "count": 5,
+        "mean_out_of_2": 2.0,
+        "distribution": {
+          "0": 0,
+          "1": 0,
+          "2": 5
+        }
+      }
+    }
+  },
+  "impact": {
+    "A–B: tác động chunking": "A có 319 chunk; B có 171. Trên 10 vị trí do AI chấm, coherence A=1,10/2 và B=1,80/2. B giảm nhiều trường hợp cắt giữa câu/từ, nhưng vẫn không xử lý được câu nối qua ranh giới trang. Hit@3 dev A=13/15, B=15/15; test A=4/5, B=5/5.",
+    "B–C: tác động filter": "Hit@1/Hit@3 của B và C bằng nhau trên bộ hiện tại. Ở q20, B trả trang 125/100/123; C trả 125/123/121, đều có metadata section Exercises. Filter đổi phạm vi top-3 dù không tăng điểm hit; chỉ có 1 câu test có filter.",
+    "Metadata giúp gì?": "source_id giúp nối chunk với tài liệu trong manifest; page giúp định vị trang để kiểm tra; section cho phép giới hạn truy xuất. C ở q20 loại trang 100 thuộc Lipids và lấy các trang mang nhãn Exercises.",
+    "Metadata còn hạn chế gì?": "Gán section theo ranh giới trang vật lý (dựa trên footer kết thúc mục của LibreTexts); nếu một trang chứa phần cuối mục trước và đầu mục sau thì các chunk cùng trang sẽ dùng chung nhãn section.",
+    "Ví dụ lỗi và đánh đổi": "q17/A có top-1 bắt đầu bằng “ound that”, mất phần giới thiệu khảo sát BBC; hai ý trả lời còn nhưng ngữ cảnh bị thiếu, grounding AI chấm bảo thủ 1/2. B giữ đủ đoạn. Chunk B dài hơn cũng có thể trộn chủ đề: q20 trang 125 kèm đoạn về protein sau đáp án trans fats."
+  },
+  "warnings": [],
+  "limitations": "Nhãn được tác giả Nguyễn Xuân Hùng rà soát và đối chiếu với PDF gốc (có sử dụng AI hỗ trợ soạn thảo nhận xét). Nguy cơ thiên lệch xác nhận do người chấm là tác giả bài lab; tập test nhỏ (5 câu); mẫu coherence gồm 10 trang đầu đã sắp xếp."
+}
