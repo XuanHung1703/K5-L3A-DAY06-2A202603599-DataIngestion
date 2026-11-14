@@ -5,4 +5,4 @@
 - Lớp: L3A
 - Chủ đề và corpus: Lịch sử thế giới và sinh học, 59 trang được chọn từ hai tài liệu LibreTexts.
 - Repo bài nộp: https://github.com/XuanHung1703/K5-L3A-DAY06-2A202603599-DataIngestion.git
-- Commit chốt bài: [CẦN ĐIỀN SAU KHI COMMIT]
+- Commit chốt bài: c68e236228dd1ea7144d2161549221fd89adb6d9
